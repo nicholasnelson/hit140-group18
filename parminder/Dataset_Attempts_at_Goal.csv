@@ -1,0 +1,236 @@
+Match,Team,Time,Player_Num,Player_Name,Outcome,Body_Part,Delivery_Type
+PMSR-M05-HAI-V-SCO.pdf,Haiti,4,11,Louicius,DEEDSON Off Target,Left Foot,Ball Progression
+PMSR-M05-HAI-V-SCO.pdf,Haiti,33,4,Ricardo,ADE Incomplete Player On Ball Error,Head,Freekick
+PMSR-M05-HAI-V-SCO.pdf,Haiti,96,8,Martin,EXPERIENCE Off Target,Right Foot,Pass
+PMSR-M05-HAI-V-SCO.pdf,Scotland,2,17,Ben,GANNONDOAK Off Target Saved,Left Foot,Ball Progression
+PMSR-M05-HAI-V-SCO.pdf,Scotland,6,4,Scott,McTOMINAY Off Target,Head,Cross
+PMSR-M05-HAI-V-SCO.pdf,Scotland,16,4,Scott,McTOMINAY Off Target,Right Foot,Pass
+PMSR-M05-HAI-V-SCO.pdf,Scotland,27,7,John,McGINN Deflected On Target Goal,Left Foot,Other
+PMSR-M05-HAI-V-SCO.pdf,Scotland,54,17,Ben,GANNONDOAK Deflected Off Target Defensive Event,Right Foot,Cross
+PMSR-M05-HAI-V-SCO.pdf,Scotland,72,7,John,McGINN Off Target,Left Foot,Pass
+PMSR-M07-BRA-V-MAR POST-V2.pdf,Brazil,8,11,RAPHINHA,Incomplete Blocked,Left Foot,Pass
+PMSR-M07-BRA-V-MAR POST-V2.pdf,Brazil,31,7,VINICIUS,JUNIOR On Target Goal,Right Foot,Ball Progression
+PMSR-M07-BRA-V-MAR POST-V2.pdf,Brazil,47,4,MARQUINHOS,Off Target,Head,Corner
+PMSR-M07-BRA-V-MAR POST-V2.pdf,Brazil,45,8,BRUNO,GUIMARAES Incomplete Player On Ball Error,Right Foot,Loose Ball
+PMSR-M07-BRA-V-MAR POST-V2.pdf,Brazil,47,4,MARQUINHOS,Deflected Off Target Defensive Event,Right Foot,Corner
+PMSR-M07-BRA-V-MAR POST-V2.pdf,Brazil,77,11,RAPHINHA,On Target Saved,Left Foot,Cross
+PMSR-M07-BRA-V-MAR POST-V2.pdf,Morocco,6,2,Achraf,HAKIMI Off Target,Right Foot,Pass
+PMSR-M07-BRA-V-MAR POST-V2.pdf,Morocco,10,11,Ismael,SAIBARI Incomplete Blocked,Left Foot,Pass
+PMSR-M07-BRA-V-MAR POST-V2.pdf,Morocco,20,11,Ismael,SAIBARI On Target Goal,Right Foot,Pass
+PMSR-M07-BRA-V-MAR POST-V2.pdf,Morocco,26,2,Achraf,HAKIMI Off Target,Right Foot,Pass
+PMSR-M07-BRA-V-MAR POST-V2.pdf,Morocco,29,11,Ismael,SAIBARI Incomplete Blocked,Right Foot,Pass
+PMSR-M07-BRA-V-MAR POST-V2.pdf,Morocco,30,2,Achraf,HAKIMI Off Target,Right Foot,Loose Ball
+PMSR-M09-CIV-V-ECU.pdf,Ivoire,15,6,Seko,FOFANA Incomplete,Right Foot,Pass
+PMSR-M09-CIV-V-ECU.pdf,Ivoire,32,6,Seko,FOFANA Off Target,Right Foot,Pass
+PMSR-M09-CIV-V-ECU.pdf,Ivoire,46,5,Wilfried,SINGO Off Target,Right Foot,Cross
+PMSR-M09-CIV-V-ECU.pdf,Ivoire,49,11,Yan,DIOMANDE Off Target,Left Foot,Pass
+PMSR-M09-CIV-V-ECU.pdf,Ivoire,52,6,Seko,FOFANA Off Target,Left Foot,Pass
+PMSR-M09-CIV-V-ECU.pdf,Ivoire,57,11,Yan,DIOMANDE Off Target,Right Foot,Tackle
+PMSR-M09-CIV-V-ECU.pdf,Ivoire,60,6,Seko,FOFANA Deflected On Target Saved,Right Foot,Corner
+PMSR-M09-CIV-V-ECU.pdf,Ivoire,82,3,Ghislain,KONAN Off Target,Right Foot,Loose Ball
+PMSR-M09-CIV-V-ECU.pdf,Ecuador,13,9,John,YEBOAH Off Target,Left Foot,Loose Ball
+PMSR-M09-CIV-V-ECU.pdf,Ecuador,22,9,John,YEBOAH Off Target,Left Foot,Tackle
+PMSR-M09-CIV-V-ECU.pdf,Ecuador,29,9,John,YEBOAH Off Target,Left Foot,Pass
+PMSR-M09-CIV-V-ECU.pdf,Ecuador,86,4,Joel,ORDONEZ Deflected Off Target Defensive Event,Head,Freekick
+PMSR-M09-CIV-V-ECU.pdf,Ecuador,87,4,Joel,ORDONEZ Incomplete Blocked,Right Foot,Corner
+PMSR-M09-CIV-V-ECU.pdf,Ecuador,98,3,Piero,HINCAPIE Deflected Off Target Defensive Event,Head,Corner
+PMSR-M12-SWE-V-TUN.pdf,Sweden,4,17,Viktor,GYOKERES Off Target,Right Foot,Pass
+PMSR-M12-SWE-V-TUN.pdf,Sweden,6,17,Viktor,GYOKERES On Target Defensive Event,Left Foot,Loose Ball
+PMSR-M12-SWE-V-TUN.pdf,Sweden,29,9,Alexander,ISAK On Target Goal,Right Foot,Ball Progression
+PMSR-M12-SWE-V-TUN.pdf,Sweden,32,3,Victor,LINDELOF Off Target,Head,Corner
+PMSR-M12-SWE-V-TUN.pdf,Sweden,52,17,Viktor,GYOKERES Incomplete Blocked,Right Foot,Loose Ball
+PMSR-M12-SWE-V-TUN.pdf,Sweden,58,17,Viktor,GYOKERES On Target Goal,Right Foot,Pass
+PMSR-M12-SWE-V-TUN.pdf,Sweden,65,17,Viktor,GYOKERES Off Target,Right Foot,Pass
+PMSR-M12-SWE-V-TUN.pdf,Sweden,67,9,Alexander,ISAK Incomplete Blocked,Right Foot,Pass
+PMSR-M12-SWE-V-TUN.pdf,Sweden,87,9,Alexander,ISAK On Target Saved,Right Foot,Pass
+PMSR-M12-SWE-V-TUN.pdf,Sweden,89,7,Lucas,BERGVALL Deflected Off Target Defensive Event,Right Foot,Pass
+PMSR-M12-SWE-V-TUN.pdf,Tunisia,17,8,Elias,SAAD Off Target,Right Foot,Pass
+PMSR-M12-SWE-V-TUN.pdf,Tunisia,42,4,Omar,REKIK On Target Goal,Head,Cross
+PMSR-M12-SWE-V-TUN.pdf,Tunisia,54,3,Montassar,TALBI Incomplete Player On Ball Error,Head,Corner
+PMSR-M12-SWE-V-TUN.pdf,Tunisia,92,7,Elias,ACHOURI On Target Saved,Right Foot,Loose Ball
+PMSR-M14-ESP-V-CPV.pdf,Spain,18,8,Fabian,RUIZ Incomplete Player On Ball Error,Left Foot,Loose Ball
+PMSR-M14-ESP-V-CPV.pdf,Spain,28,9,GAVI,Incomplete Blocked,Right Foot,Pass
+PMSR-M14-ESP-V-CPV.pdf,Spain,38,7,Ferran,TORRES Off Target,Right Foot,Pass
+PMSR-M14-ESP-V-CPV.pdf,Spain,39,7,Ferran,TORRES Incomplete Blocked,Head,Corner
+PMSR-M14-ESP-V-CPV.pdf,Spain,40,8,Fabian,RUIZ Off Target,Left Foot,Pass
+PMSR-M14-ESP-V-CPV.pdf,Spain,44,7,Ferran,TORRES On Target Saved,Left Foot,Loose Ball
+PMSR-M14-ESP-V-CPV.pdf,Spain,47,8,Fabian,RUIZ Off Target,Left Foot,Pass
+PMSR-M14-ESP-V-CPV.pdf,Spain,50,8,Fabian,RUIZ Off Target,Left Foot,Pass
+PMSR-M14-ESP-V-CPV.pdf,Spain,55,8,Fabian,RUIZ On Target Saved,Head,Cross
+PMSR-M14-ESP-V-CPV.pdf,Spain,72,6,Mikel,MERINO On Target Saved,Right Foot,Pass
+PMSR-M14-ESP-V-CPV.pdf,Spain,74,7,Ferran,TORRES Incomplete Blocked,Right Foot,Pass
+PMSR-M14-ESP-V-CPV.pdf,Cabo Verde,37,7,JOVANE,CABRAL Off Target,Right Foot,Freekick
+PMSR-M14-ESP-V-CPV.pdf,Cabo Verde,89,6,KEVIN,PINA Deflected Off Target Defensive Event,Right Foot,Pass
+PMSR-M14-ESP-V-CPV.pdf,Cabo Verde,90,3,DINEY,BORGES On Target Saved,Head,Corner
+PMSR-M19-ARG-V-ALG.pdf,Algeria,48,11,Anis,HADJ MOUSSA Deflected On Target Defensive Event,Left Foot,Ball Progression
+PMSR-M19-ARG-V-ALG.pdf,Algeria,68,8,Houssem,AOUAR Off Target,Right Foot,Pass
+PMSR-M19-ARG-V-ALG.pdf,Algeria,85,7,Riyad,MAHREZ Incomplete Blocked,Left Foot,Freekick
+PMSR-M23-POR-V-COD.pdf,Portugal,38,8,BRUNO,FERNANDES Incomplete Blocked,Right Foot,Pass
+PMSR-M23-POR-V-COD.pdf,Portugal,67,7,CRISTIANO,RONALDO Off Target,Right Foot,Pass
+PMSR-M23-POR-V-COD.pdf,Portugal,73,7,CRISTIANO,RONALDO Off Target,Right Foot,Cross
+PMSR-M23-POR-V-COD.pdf,Portugal,89,8,BRUNO,FERNANDES Off Target,Left Foot,Other
+PMSR-M23-POR-V-COD.pdf,Congo DR,13,17,Cedric,BAKAMBU Deflected Off Target Defensive Event,Right Foot,Ball Progression
+PMSR-M23-POR-V-COD.pdf,Congo DR,45,8,Samuel,MOUTOUSSAMY Incomplete,Left Foot,Pass
+PMSR-M23-POR-V-COD.pdf,Congo DR,47,8,Samuel,MOUTOUSSAMY Deflected Off Target Defensive Event,Left Foot,Pass
+PMSR-M23-POR-V-COD.pdf,Congo DR,62,3,Steve,KAPUADI Off Target,Head,Pass
+PMSR-M23-POR-V-COD.pdf,Congo DR,76,17,Cedric,BAKAMBU Off Target,Right Foot,Pass
+PMSR-M24-UZB-V-COL-V2.pdf,Uzbekistan,87,17,Dostonbek,KHAMDAMOV Deflected Off Target Defensive Event,Left Foot,Pass
+PMSR-M24-UZB-V-COL-V2.pdf,Uzbekistan,89,6,Akmal,MOZGOVOY Off Target,Right Foot,Pass
+PMSR-M24-UZB-V-COL-V2.pdf,Uzbekistan,91,17,Dostonbek,KHAMDAMOV Incomplete Player On Ball Error,Head,Pass
+PMSR-M24-UZB-V-COL-V2.pdf,Colombia,16,11,Jhon,ARIAS Off Target,Right Foot,Pass
+PMSR-M24-UZB-V-COL-V2.pdf,Colombia,31,7,Luis,DIAZ Off Target,Left Foot,Pass
+PMSR-M24-UZB-V-COL-V2.pdf,Colombia,40,2,Daniel,MUNOZ On Target Goal,Right Foot,Pass
+PMSR-M24-UZB-V-COL-V2.pdf,Colombia,63,11,Jhon,ARIAS Incomplete Blocked,Left Foot,Pass
+PMSR-M24-UZB-V-COL-V2.pdf,Colombia,64,7,Luis,DIAZ On Target Goal,Right Foot,Pass
+PMSR-M24-UZB-V-COL-V2.pdf,Colombia,81,17,Johan,MOJICA Off Target,Left Foot,Pass
+PMSR-M30-SCO-V-MAR.pdf,Scotland,45,7,John,McGINN Off Target,Right Foot,Cross
+PMSR-M30-SCO-V-MAR.pdf,Scotland,46,6,Kieran,TIERNEY Incomplete Blocked,Left Foot,Pass
+PMSR-M30-SCO-V-MAR.pdf,Scotland,63,11,Ryan,CHRISTIE Off Target,Right Foot,Pass
+PMSR-M30-SCO-V-MAR.pdf,Scotland,84,4,Scott,McTOMINAY Deflected Off Target Defensive Event,Right Foot,Pass
+PMSR-M30-SCO-V-MAR.pdf,Scotland,85,9,Lyndon,DYKES Off Target,Head,Corner
+PMSR-M30-SCO-V-MAR.pdf,Scotland,87,4,Scott,McTOMINAY Incomplete Blocked,Left Foot,Loose Ball
+PMSR-M30-SCO-V-MAR.pdf,Morocco,1,11,Ismael,SAIBARI On Target Goal,Right Foot,Pass
+PMSR-M30-SCO-V-MAR.pdf,Morocco,20,6,Ayyoub,BOUADDI Incomplete Blocked,Right Foot,Loose Ball
+PMSR-M30-SCO-V-MAR.pdf,Morocco,37,2,Achraf,HAKIMI Incomplete Player On Ball Error,Right Foot,Cross
+PMSR-M30-SCO-V-MAR.pdf,Morocco,49,11,Ismael,SAIBARI Deflected Off Target Defensive Event,Left Foot,Cross
+PMSR-M30-SCO-V-MAR.pdf,Morocco,61,2,Achraf,HAKIMI Off Target,Right Foot,Ball Progression
+PMSR-M30-SCO-V-MAR.pdf,Morocco,90,7,Chemsdine,TALBI Incomplete Blocked,Right Foot,Pass
+PMSR-M30-SCO-V-MAR.pdf,Morocco,92,7,Chemsdine,TALBI Off Target,Left Foot,Pass
+PMSR-M37-URU-V-CPV.pdf,Uruguay,6,6,Rodrigo,BENTANCUR Incomplete Blocked,Head,Corner
+PMSR-M37-URU-V-CPV.pdf,Uruguay,13,8,Federico,VALVERDE Off Target,Left Foot,Pass
+PMSR-M37-URU-V-CPV.pdf,Uruguay,23,8,Federico,VALVERDE Deflected Off Target Defensive Event,Right Foot,Pass
+PMSR-M37-URU-V-CPV.pdf,Uruguay,23,8,Federico,VALVERDE Deflected Off Target Defensive Event,Right Foot,Pass
+PMSR-M37-URU-V-CPV.pdf,Uruguay,27,8,Federico,VALVERDE Off Target,Right Foot,Loose Ball
+PMSR-M37-URU-V-CPV.pdf,Uruguay,32,5,Manuel,UGARTE Off Target,Right Foot,Loose Ball
+PMSR-M37-URU-V-CPV.pdf,Uruguay,33,8,Federico,VALVERDE Off Target,Right Foot,Pass
+PMSR-M37-URU-V-CPV.pdf,Uruguay,41,3,Sebastian,CACERES Incomplete Blocked,Right Foot,Pass
+PMSR-M37-URU-V-CPV.pdf,Uruguay,66,8,Federico,VALVERDE Deflected Off Target Defensive Event,Right Foot,Ball Progression
+PMSR-M37-URU-V-CPV.pdf,Uruguay,78,7,Nicolas,DE LA CRUZ Off Target,Right Foot,Pass
+PMSR-M37-URU-V-CPV.pdf,Uruguay,85,6,Rodrigo,BENTANCUR Deflected Off Target Defensive Event,Head,Corner
+PMSR-M37-URU-V-CPV.pdf,Uruguay,89,8,Federico,VALVERDE Off Target,Right Foot,Freekick
+PMSR-M37-URU-V-CPV.pdf,Cabo Verde,20,6,KEVIN,PINA On Target Goal,Right Foot,Freekick
+PMSR-M37-URU-V-CPV.pdf,Cabo Verde,42,3,DINEY,BORGES Incomplete Player On Ball Error,Right Foot,Ball Progression
+PMSR-M37-URU-V-CPV.pdf,Cabo Verde,75,4,PICO,LOPES Deflected Off Target Defensive Event,Head,Corner
+PMSR-M43-ARG-V-AUT.pdf,Argentina,93,9,Julian,ALVAREZ On Target Saved,Left Foot,Pass
+PMSR-M43-ARG-V-AUT.pdf,Austria,22,9,Marcel,SABITZER Deflected Off Target Defensive Event,Left Foot,Loose Ball
+PMSR-M43-ARG-V-AUT.pdf,Austria,45,9,Marcel,SABITZER Deflected Off Target Defensive Event,Right Foot,Pass
+PMSR-M43-ARG-V-AUT.pdf,Austria,54,9,Marcel,SABITZER On Target Saved,Right Foot,Freekick
+PMSR-M43-ARG-V-AUT.pdf,Austria,66,11,Michael,GREGORITSCH Off Target,Head,Cross
+PMSR-M49-SCO-V-BRA.pdf,Scotland,46,17,Ben,GANNONDOAK Incomplete Blocked,Right Foot,Pass
+PMSR-M49-SCO-V-BRA.pdf,Scotland,50,17,Ben,GANNONDOAK Incomplete Defensive Event,Right Foot,Pass
+PMSR-M49-SCO-V-BRA.pdf,Scotland,48,4,Scott,McTOMINAY On Target Saved,Head,Cross
+PMSR-M49-SCO-V-BRA.pdf,Scotland,63,4,Scott,McTOMINAY On Target Saved,Head,Cross
+PMSR-M49-SCO-V-BRA.pdf,Scotland,71,4,Scott,McTOMINAY Off Target,Left Foot,Loose Ball
+PMSR-M49-SCO-V-BRA.pdf,Scotland,82,11,Ryan,CHRISTIE Incomplete Blocked,Left Foot,Loose Ball
+PMSR-M49-SCO-V-BRA.pdf,Scotland,83,6,Kieran,TIERNEY Incomplete Blocked,Left Foot,Pass
+PMSR-M49-SCO-V-BRA.pdf,Scotland,95,4,Scott,McTOMINAY On Target Saved,Left Foot,Cross
+PMSR-M49-SCO-V-BRA.pdf,Brazil,6,5,CASEMIRO,Incomplete Blocked,Right Foot,Pass
+PMSR-M49-SCO-V-BRA.pdf,Brazil,6,7,VINICIUS,JUNIOR On Target Goal,Right Foot,Ball Progression
+PMSR-M49-SCO-V-BRA.pdf,Brazil,10,8,BRUNO,GUIMARAES Incomplete Blocked,Right Foot,Pass
+PMSR-M49-SCO-V-BRA.pdf,Brazil,11,9,MATHEUS,CUNHA Off Target,Right Foot,Pass
+PMSR-M49-SCO-V-BRA.pdf,Brazil,19,7,VINICIUS,JUNIOR Off Target,Right Foot,Pass
+PMSR-M49-SCO-V-BRA.pdf,Brazil,41,9,MATHEUS,CUNHA Off Target,Right Foot,Ball Progression
+PMSR-M49-SCO-V-BRA.pdf,Brazil,44,9,MATHEUS,CUNHA Deflected On Target Goal Prevented,Right Foot,Cross
+PMSR-M49-SCO-V-BRA.pdf,Brazil,47,7,VINICIUS,JUNIOR On Target Goal,Head,Cross
+PMSR-M49-SCO-V-BRA.pdf,Brazil,50,7,VINICIUS,JUNIOR On Target Saved,Right Foot,Pass
+PMSR-M49-SCO-V-BRA.pdf,Brazil,53,7,VINICIUS,JUNIOR On Target Saved,Right Foot,Pass
+PMSR-M49-SCO-V-BRA.pdf,Brazil,58,9,MATHEUS,CUNHA Incomplete Blocked,Right Foot,Pass
+PMSR-M49-SCO-V-BRA.pdf,Brazil,59,9,MATHEUS,CUNHA On Target Goal,Right Foot,Pass
+PMSR-M49-SCO-V-BRA.pdf,Brazil,78,7,VINICIUS,JUNIOR On Target Saved,Right Foot,Pass
+PMSR-M49-SCO-V-BRA.pdf,Brazil,80,7,VINICIUS,JUNIOR Off Target,Right Foot,Cross
+PMSR-M49-SCO-V-BRA.pdf,Brazil,85,3,GABRIEL,MAGALHAES Incomplete Blocked,Left Foot,Corner
+PMSR-M49-SCO-V-BRA.pdf,Brazil,95,7,VINICIUS,JUNIOR Incomplete Blocked,Left Foot,Pass
+PMSR-M50-MAR-V-HAI-V2.pdf,Morocco,12,11,Ismael,SAIBARI Off Target,Right Foot,Cross
+PMSR-M50-MAR-V-HAI-V2.pdf,Morocco,13,11,Ismael,SAIBARI Incomplete Blocked,Left Foot,Pass
+PMSR-M50-MAR-V-HAI-V2.pdf,Morocco,22,11,Ismael,SAIBARI Off Target Saved,Right Foot,Pass
+PMSR-M50-MAR-V-HAI-V2.pdf,Morocco,29,2,Achraf,HAKIMI On Target Saved,Left Foot,Pass
+PMSR-M50-MAR-V-HAI-V2.pdf,Morocco,35,11,Ismael,SAIBARI Off Target,Head,Cross
+PMSR-M50-MAR-V-HAI-V2.pdf,Morocco,45,11,Ismael,SAIBARI On Target Goal,Right Foot,Cross
+PMSR-M50-MAR-V-HAI-V2.pdf,Morocco,74,2,Achraf,HAKIMI Incomplete Blocked,Right Foot,Freekick
+PMSR-M50-MAR-V-HAI-V2.pdf,Morocco,74,2,Achraf,HAKIMI Incomplete Blocked,Right Foot,Other
+PMSR-M50-MAR-V-HAI-V2.pdf,Morocco,76,9,Soufiane,RAHIMI Deflected Off Target Defensive Event,Head,Corner
+PMSR-M50-MAR-V-HAI-V2.pdf,Morocco,77,9,Soufiane,RAHIMI Deflected On Target Goal,Right Foot,Loose Ball
+PMSR-M50-MAR-V-HAI-V2.pdf,Morocco,87,2,Achraf,HAKIMI On Target Saved,Right Foot,Freekick
+PMSR-M50-MAR-V-HAI-V2.pdf,Morocco,88,8,Azzedine,OUNAHI Incomplete Blocked,Right Foot,Loose Ball
+PMSR-M50-MAR-V-HAI-V2.pdf,Haiti,94,9,Duckens,NAZON On Target Saved,Right Foot,Freekick
+PMSR-M50-MAR-V-HAI-V2.pdf,Haiti,97,11,Louicius,DEEDSON Incomplete Blocked,Left Foot,Pass
+PMSR-M50-MAR-V-HAI-V2.pdf,Haiti,97,4,Ricardo,ADE Off Target Saved,Right Foot,Pass
+PMSR-M56-ECU-V-GER.pdf,Ecuador,76,11,Kevin,RODRIGUEZ Deflected Off Target Defensive Event,Left Foot,Pass
+PMSR-M56-ECU-V-GER.pdf,Germany,6,17,Florian,WIRTZ Incomplete Blocked,Right Foot,Loose Ball
+PMSR-M56-ECU-V-GER.pdf,Germany,24,7,Kai,HAVERTZ On Target Saved,Head,Cross
+PMSR-M56-ECU-V-GER.pdf,Germany,48,17,Florian,WIRTZ Incomplete Blocked,Right Foot,Ball Progression
+PMSR-M56-ECU-V-GER.pdf,Germany,62,17,Florian,WIRTZ Incomplete Blocked,Right Foot,Pass
+PMSR-M58-TUN-V-NED.pdf,Tunisia,1,11,Ismael,GHARBI Off Target,Right Foot,Cross
+PMSR-M58-TUN-V-NED.pdf,Tunisia,8,2,Ali,ABDI Off Target,Right Foot,Cross
+PMSR-M58-TUN-V-NED.pdf,Tunisia,31,11,Ismael,GHARBI Off Target,Right Foot,Freekick
+PMSR-M58-TUN-V-NED.pdf,Tunisia,53,9,Hazem,MASTOURI On Target Goal,Head,Corner
+PMSR-M58-TUN-V-NED.pdf,Tunisia,64,9,Hazem,MASTOURI On Target Saved,Right Foot,Pass
+PMSR-M58-TUN-V-NED.pdf,Tunisia,76,7,Elias,ACHOURI Off Target,Right Foot,Loose Ball
+PMSR-M58-TUN-V-NED.pdf,Tunisia,89,9,Hazem,MASTOURI Off Target,Right Foot,Loose Ball
+PMSR-M58-TUN-V-NED.pdf,Tunisia,93,7,Elias,ACHOURI Incomplete Blocked,Right Foot,Loose Ball
+PMSR-M58-TUN-V-NED.pdf,Netherlands,16,6,Jan,Paul VAN HECKE Off Target,Head,Freekick
+PMSR-M58-TUN-V-NED.pdf,Netherlands,27,8,Ryan,GRAVENBERCH Deflected Off Target Defensive Event,Right Foot,Pass
+PMSR-M58-TUN-V-NED.pdf,Netherlands,29,11,Cody,GAKPO Incomplete Player On Ball Error,Head,Cross
+PMSR-M58-TUN-V-NED.pdf,Netherlands,38,8,Ryan,GRAVENBERCH Off Target,Right Foot,Pass
+PMSR-M58-TUN-V-NED.pdf,Netherlands,60,11,Cody,GAKPO Incomplete Blocked,Right Foot,Pass
+PMSR-M58-TUN-V-NED.pdf,Netherlands,61,6,Jan,Paul VAN HECKE Deflected On Target Goal,Head,Corner
+PMSR-M58-TUN-V-NED.pdf,Netherlands,77,4,Virgil,VAN DIJK On Target Saved,Head,Freekick
+PMSR-M58-TUN-V-NED.pdf,Netherlands,79,5,Nathan,AKE Off Target,Head,Pass
+PMSR-M59-TUR-v-USA.pdf,rkiye,9,8,Arda,GULER On Target Goal,Left Foot,Pass
+PMSR-M59-TUR-v-USA.pdf,rkiye,30,6,Orkun,KOKCU Incomplete Assist,Right Foot,Cross
+PMSR-M59-TUR-v-USA.pdf,rkiye,42,11,Kenan,YILDIZ Deflected Off Target Defensive Event,Left Foot,Pass
+PMSR-M59-TUR-v-USA.pdf,rkiye,71,11,Kenan,YILDIZ Off Target,Right Foot,Pass
+PMSR-M59-TUR-v-USA.pdf,rkiye,80,6,Orkun,KOKCU Off Target,Right Foot,Pass
+PMSR-M59-TUR-v-USA.pdf,USA,0,7,Giovanni,REYNA Deflected Off Target Defensive Event,Right Foot,Loose Ball
+PMSR-M59-TUR-v-USA.pdf,USA,1,6,Auston,TRUSTY On Target Saved,Right Foot,Interception
+PMSR-M59-TUR-v-USA.pdf,USA,2,6,Auston,TRUSTY On Target Goal,Left Foot,Corner
+PMSR-M59-TUR-v-USA.pdf,USA,12,11,Brenden,AARONSON Incomplete Blocked,Left Foot,Pass
+PMSR-M59-TUR-v-USA.pdf,USA,12,11,Brenden,AARONSON On Target Saved,Right Foot,Loose Ball
+PMSR-M59-TUR-v-USA.pdf,USA,44,8,Weston,McKENNIE On Target Saved,Right Foot,Pass
+PMSR-M59-TUR-v-USA.pdf,USA,47,6,Auston,TRUSTY Off Target,Head,Corner
+PMSR-M59-TUR-v-USA.pdf,USA,61,11,Brenden,AARONSON Off Target,Right Foot,Other
+PMSR-M59-TUR-v-USA.pdf,USA,62,9,Ricardo,PEPI Incomplete,Right Foot,Cross
+PMSR-M59-TUR-v-USA.pdf,USA,62,8,Weston,McKENNIE Deflected Off Target Defensive Event,Left Foot,Cross
+PMSR-M59-TUR-v-USA.pdf,USA,65,8,Weston,McKENNIE Off Target,Head,Corner
+PMSR-M59-TUR-v-USA.pdf,USA,94,9,Ricardo,PEPI Incomplete Blocked,Left Foot,Pass
+PMSR-M67-PAN-V-ENG.pdf,Panama,0,9,Tomas,RODRIGUEZ On Target Saved,Right Foot,Other
+PMSR-M67-PAN-V-ENG.pdf,Panama,25,7,Jose,Luis RODRIGUEZ On Target Saved,Left Foot,Pass
+PMSR-M67-PAN-V-ENG.pdf,Panama,55,7,Jose,Luis RODRIGUEZ Off Target,Right Foot,Loose Ball
+PMSR-M67-PAN-V-ENG.pdf,England,7,11,Marcus,RASHFORD On Target Saved,Right Foot,Pass
+PMSR-M67-PAN-V-ENG.pdf,England,7,7,Bukayo,SAKA Off Target,Right Foot,Loose Ball
+PMSR-M67-PAN-V-ENG.pdf,England,14,7,Bukayo,SAKA Off Target Saved,Left Foot,Ball Progression
+PMSR-M67-PAN-V-ENG.pdf,England,21,7,Bukayo,SAKA Incomplete Blocked,Left Foot,Pass
+PMSR-M67-PAN-V-ENG.pdf,England,32,3,Nico,OREILLY Off Target Saved,Head,Pass
+PMSR-M67-PAN-V-ENG.pdf,England,34,8,Elliot,ANDERSON On Target Saved,Right Foot,Pass
+PMSR-M67-PAN-V-ENG.pdf,England,37,11,Marcus,RASHFORD Off Target,Head,Pass
+PMSR-M67-PAN-V-ENG.pdf,England,47,11,Marcus,RASHFORD Off Target,Right Foot,Freekick
+PMSR-M67-PAN-V-ENG.pdf,England,54,11,Marcus,RASHFORD Off Target,Left Foot,Ball Progression
+PMSR-M67-PAN-V-ENG.pdf,England,56,9,Harry,KANE On Target Saved,Right Foot,Pass
+PMSR-M67-PAN-V-ENG.pdf,England,65,9,Harry,KANE Incomplete Blocked,Left Foot,Ball Progression
+PMSR-M67-PAN-V-ENG.pdf,England,66,9,Harry,KANE On Target Goal,Head,Cross
+PMSR-M67-PAN-V-ENG.pdf,England,86,11,Marcus,RASHFORD Off Target,Right Foot,Cross
+PMSR-M71-COL-V-POR.pdf,Colombia,1,7,Luis,DIAZ Deflected On Target Defensive Event,Right Foot,Pass
+PMSR-M71-COL-V-POR.pdf,Colombia,1,9,Jhon,CORDOBA Off Target,Head,Loose Ball
+PMSR-M71-COL-V-POR.pdf,Colombia,5,7,Luis,DIAZ Incomplete Player On Ball Error,Right Foot,Pass
+PMSR-M71-COL-V-POR.pdf,Colombia,16,9,Jhon,CORDOBA On Target Saved,Right Foot,Pass
+PMSR-M71-COL-V-POR.pdf,Colombia,16,7,Luis,DIAZ Deflected Off Target Defensive Event,Right Foot,Pass
+PMSR-M71-COL-V-POR.pdf,Colombia,21,11,Jhon,ARIAS Incomplete Defensive Event,Right Foot,Pass
+PMSR-M71-COL-V-POR.pdf,Colombia,45,7,Luis,DIAZ Off Target,Right Foot,Pass
+PMSR-M71-COL-V-POR.pdf,Colombia,54,11,Jhon,ARIAS On Target Saved,Right Foot,Pass
+PMSR-M71-COL-V-POR.pdf,Colombia,61,6,Richard,RIOS Off Target,Left Foot,Cross
+PMSR-M71-COL-V-POR.pdf,Colombia,65,11,Jhon,ARIAS Deflected On Target Saved,Right Foot,Pass
+PMSR-M71-COL-V-POR.pdf,Portugal,11,8,BRUNO,FERNANDES Off Target,Right Foot,Pass
+PMSR-M71-COL-V-POR.pdf,Portugal,23,7,CRISTIANO,RONALDO On Target Saved,Right Foot,Freekick
+PMSR-M71-COL-V-POR.pdf,Portugal,38,8,BRUNO,FERNANDES On Target Saved,Right Foot,Cross
+PMSR-M71-COL-V-POR.pdf,Portugal,38,7,CRISTIANO,RONALDO Incomplete Blocked,Right Foot,Other
+PMSR-M71-COL-V-POR.pdf,Portugal,41,11,JOAO,FELIX Off Target,Right Foot,Ball Progression
+PMSR-M71-COL-V-POR.pdf,Portugal,46,7,CRISTIANO,RONALDO Incomplete Blocked,Left Foot,Pass
+PMSR-M71-COL-V-POR.pdf,Portugal,50,11,JOAO,FELIX Off Target,Head,Pass
+PMSR-M71-COL-V-POR.pdf,Portugal,56,11,JOAO,FELIX Incomplete Blocked,Right Foot,Pass
+PMSR-M71-COL-V-POR.pdf,Portugal,77,5,DIOGO,DALOT Off Target,Right Foot,Corner
+PMSR-M71-COL-V-POR.pdf,Portugal,92,17,RAFAEL,LEAO Off Target,Right Foot,Ball Progression
+PMSR-M72-COD-V-UZB-v2.pdf,Congo DR,43,9,Brian,CIPENGA Incomplete Defensive Event,Right Foot,Freekick
+PMSR-M72-COD-V-UZB-v2.pdf,Congo DR,47,9,Brian,CIPENGA Off Target,Right Foot,Pass
+PMSR-M72-COD-V-UZB-v2.pdf,Congo DR,52,9,Brian,CIPENGA Off Target,Right Foot,Pass
+PMSR-M72-COD-V-UZB-v2.pdf,Congo DR,57,7,Nathanael,MBUKU On Target Saved,Left Foot,Pass
+PMSR-M72-COD-V-UZB-v2.pdf,Congo DR,94,6,Ngalayel,MUKAU Off Target,Left Foot,Pass
