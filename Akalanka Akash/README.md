@@ -28,8 +28,3 @@ python3 -m unittest discover -s tests -v
 ```
 
 The analysis uses only the Python standard library. The output files are included for review.
-
-## Files to adapt before submission
-
-- The member should run the workflow, verify the interpretation, and explain the work in their own presentation.
-- Record only genuine collaboration activity and commits. Do not backdate or fabricate evidence.
