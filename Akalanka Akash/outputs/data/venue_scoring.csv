@@ -1,0 +1,73 @@
+match_id,date,group,venue,host_country_group,team_1,team_2,team_1_goals,team_2_goals,total_goals
+1,2026-06-11,Group A,Mexico City,Mexico,Mexico,South Africa,2,0,2
+2,2026-06-11,Group A,Guadalajara (Zapopan),Mexico,South Korea,Czech Republic,2,1,3
+3,2026-06-18,Group A,Atlanta,Canada/United States,Czech Republic,South Africa,1,1,2
+4,2026-06-18,Group A,Guadalajara (Zapopan),Mexico,Mexico,South Korea,1,0,1
+5,2026-06-24,Group A,Mexico City,Mexico,Czech Republic,Mexico,0,3,3
+6,2026-06-24,Group A,Monterrey (Guadalupe),Mexico,South Africa,South Korea,1,0,1
+7,2026-06-12,Group B,Toronto,Canada/United States,Canada,Bosnia & Herzegovina,1,1,2
+8,2026-06-13,Group B,San Francisco Bay Area (Santa Clara),Canada/United States,Qatar,Switzerland,1,1,2
+9,2026-06-18,Group B,Los Angeles (Inglewood),Canada/United States,Switzerland,Bosnia & Herzegovina,4,1,5
+10,2026-06-18,Group B,Vancouver,Canada/United States,Canada,Qatar,6,0,6
+11,2026-06-24,Group B,Vancouver,Canada/United States,Switzerland,Canada,2,1,3
+12,2026-06-24,Group B,Seattle,Canada/United States,Bosnia & Herzegovina,Qatar,3,1,4
+13,2026-06-13,Group C,New York/New Jersey (East Rutherford),Canada/United States,Brazil,Morocco,1,1,2
+14,2026-06-13,Group C,Boston (Foxborough),Canada/United States,Haiti,Scotland,0,1,1
+15,2026-06-19,Group C,Boston (Foxborough),Canada/United States,Scotland,Morocco,0,1,1
+16,2026-06-19,Group C,Philadelphia,Canada/United States,Brazil,Haiti,3,0,3
+17,2026-06-24,Group C,Miami (Miami Gardens),Canada/United States,Scotland,Brazil,0,3,3
+18,2026-06-24,Group C,Atlanta,Canada/United States,Morocco,Haiti,4,2,6
+19,2026-06-12,Group D,Los Angeles (Inglewood),Canada/United States,USA,Paraguay,4,1,5
+20,2026-06-13,Group D,Vancouver,Canada/United States,Australia,Turkey,2,0,2
+21,2026-06-19,Group D,Seattle,Canada/United States,USA,Australia,2,0,2
+22,2026-06-19,Group D,San Francisco Bay Area (Santa Clara),Canada/United States,Turkey,Paraguay,0,1,1
+23,2026-06-25,Group D,Los Angeles (Inglewood),Canada/United States,Turkey,USA,3,2,5
+24,2026-06-25,Group D,San Francisco Bay Area (Santa Clara),Canada/United States,Paraguay,Australia,0,0,0
+25,2026-06-14,Group E,Houston,Canada/United States,Germany,Curaçao,7,1,8
+26,2026-06-14,Group E,Philadelphia,Canada/United States,Ivory Coast,Ecuador,1,0,1
+27,2026-06-20,Group E,Toronto,Canada/United States,Germany,Ivory Coast,2,1,3
+28,2026-06-20,Group E,Kansas City,Canada/United States,Ecuador,Curaçao,0,0,0
+29,2026-06-25,Group E,Philadelphia,Canada/United States,Curaçao,Ivory Coast,0,2,2
+30,2026-06-25,Group E,New York/New Jersey (East Rutherford),Canada/United States,Ecuador,Germany,2,1,3
+31,2026-06-14,Group F,Dallas (Arlington),Canada/United States,Netherlands,Japan,2,2,4
+32,2026-06-14,Group F,Monterrey (Guadalupe),Mexico,Sweden,Tunisia,5,1,6
+33,2026-06-20,Group F,Houston,Canada/United States,Netherlands,Sweden,5,1,6
+34,2026-06-20,Group F,Monterrey (Guadalupe),Mexico,Tunisia,Japan,0,4,4
+35,2026-06-25,Group F,Dallas (Arlington),Canada/United States,Japan,Sweden,1,1,2
+36,2026-06-25,Group F,Kansas City,Canada/United States,Tunisia,Netherlands,1,3,4
+37,2026-06-15,Group G,Seattle,Canada/United States,Belgium,Egypt,1,1,2
+38,2026-06-15,Group G,Los Angeles (Inglewood),Canada/United States,Iran,New Zealand,2,2,4
+39,2026-06-21,Group G,Los Angeles (Inglewood),Canada/United States,Belgium,Iran,0,0,0
+40,2026-06-21,Group G,Vancouver,Canada/United States,New Zealand,Egypt,1,3,4
+41,2026-06-26,Group G,Seattle,Canada/United States,Egypt,Iran,1,1,2
+42,2026-06-26,Group G,Vancouver,Canada/United States,New Zealand,Belgium,1,5,6
+43,2026-06-15,Group H,Atlanta,Canada/United States,Spain,Cape Verde,0,0,0
+44,2026-06-15,Group H,Miami (Miami Gardens),Canada/United States,Saudi Arabia,Uruguay,1,1,2
+45,2026-06-21,Group H,Atlanta,Canada/United States,Spain,Saudi Arabia,4,0,4
+46,2026-06-21,Group H,Miami (Miami Gardens),Canada/United States,Uruguay,Cape Verde,2,2,4
+47,2026-06-26,Group H,Houston,Canada/United States,Cape Verde,Saudi Arabia,0,0,0
+48,2026-06-26,Group H,Guadalajara (Zapopan),Mexico,Uruguay,Spain,0,1,1
+49,2026-06-16,Group I,New York/New Jersey (East Rutherford),Canada/United States,France,Senegal,3,1,4
+50,2026-06-16,Group I,Boston (Foxborough),Canada/United States,Iraq,Norway,1,4,5
+51,2026-06-22,Group I,Philadelphia,Canada/United States,France,Iraq,3,0,3
+52,2026-06-22,Group I,New York/New Jersey (East Rutherford),Canada/United States,Norway,Senegal,3,2,5
+53,2026-06-26,Group I,Boston (Foxborough),Canada/United States,Norway,France,1,4,5
+54,2026-06-26,Group I,Toronto,Canada/United States,Senegal,Iraq,5,0,5
+55,2026-06-16,Group J,Kansas City,Canada/United States,Argentina,Algeria,3,0,3
+56,2026-06-16,Group J,San Francisco Bay Area (Santa Clara),Canada/United States,Austria,Jordan,3,1,4
+57,2026-06-22,Group J,Dallas (Arlington),Canada/United States,Argentina,Austria,2,0,2
+58,2026-06-22,Group J,San Francisco Bay Area (Santa Clara),Canada/United States,Jordan,Algeria,1,2,3
+59,2026-06-27,Group J,Kansas City,Canada/United States,Algeria,Austria,3,3,6
+60,2026-06-27,Group J,Dallas (Arlington),Canada/United States,Jordan,Argentina,1,3,4
+61,2026-06-17,Group K,Houston,Canada/United States,Portugal,DR Congo,1,1,2
+62,2026-06-17,Group K,Mexico City,Mexico,Uzbekistan,Colombia,1,3,4
+63,2026-06-23,Group K,Houston,Canada/United States,Portugal,Uzbekistan,5,0,5
+64,2026-06-23,Group K,Guadalajara (Zapopan),Mexico,Colombia,DR Congo,1,0,1
+65,2026-06-27,Group K,Miami (Miami Gardens),Canada/United States,Colombia,Portugal,0,0,0
+66,2026-06-27,Group K,Atlanta,Canada/United States,DR Congo,Uzbekistan,3,1,4
+67,2026-06-17,Group L,Dallas (Arlington),Canada/United States,England,Croatia,4,2,6
+68,2026-06-17,Group L,Toronto,Canada/United States,Ghana,Panama,1,0,1
+69,2026-06-23,Group L,Boston (Foxborough),Canada/United States,England,Ghana,0,0,0
+70,2026-06-23,Group L,Toronto,Canada/United States,Panama,Croatia,0,1,1
+71,2026-06-27,Group L,New York/New Jersey (East Rutherford),Canada/United States,Panama,England,0,2,2
+72,2026-06-27,Group L,Philadelphia,Canada/United States,Croatia,Ghana,2,1,3

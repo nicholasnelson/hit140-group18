@@ -1,0 +1,44 @@
+{
+  "question": "Did group-stage matches played in Mexico have a different mean number of total goals than group-stage matches played in Canada or the United States?",
+  "outcome": "Total full-time goals per group-stage match",
+  "mexico": {
+    "n": 10,
+    "mean": 2.6,
+    "median": 2.5,
+    "sd": 1.7126976771553506,
+    "variance": 2.9333333333333336,
+    "min": 1.0,
+    "max": 6.0,
+    "skewness": 0.7829222336169859
+  },
+  "canada_united_states": {
+    "n": 62,
+    "mean": 3.0483870967741935,
+    "median": 3.0,
+    "sd": 1.9113759472259915,
+    "variance": 3.6533580116340563,
+    "min": 0.0,
+    "max": 8.0,
+    "skewness": 0.1907799669256251
+  },
+  "welch_two_sample_t_test": {
+    "mean_difference": -0.4483870967741934,
+    "standard_error": 0.5935136582701678,
+    "degrees_freedom": 12.902222563596546,
+    "t_statistic": -0.755478986079352,
+    "p_value_two_sided": 0.4635311898429544,
+    "ci_95_low": -1.7315838656719165,
+    "ci_95_high": 0.8348096721235296
+  },
+  "hedges_g": -0.23506350429676062,
+  "assumption_checks": {
+    "variance_ratio_larger_to_smaller": 1.24546295851161,
+    "distribution_note": "The outcome is a non-negative count. Mexico is mildly right-skewed. The comparison group is close to symmetric. Welch's method does not require equal variances."
+  },
+  "randomisation_sensitivity_test": {
+    "iterations": 100000,
+    "seed": 140,
+    "observed_absolute_mean_difference": 0.4483870967741934,
+    "p_value_two_sided": 0.5287147128528715
+  }
+}
