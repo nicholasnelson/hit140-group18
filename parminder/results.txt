@@ -1,0 +1,48 @@
+Loading data...
+  594 player-match rows, 19 matches.
+  Note: 12 of 38 team-match records have no identified goalkeeper row.
+  Removed 26 goalkeeper rows.
+  331 rows remain after requiring Att >= 5.
+
+1. DESCRIPTIVE STATISTICS (raw, unadjusted)
+               Players  Attempts  Mean_Completion     SD  Mean_Prop_Over  Mean_Prop_Cross
+Confederation                                                                            
+CONMEBOL            88      1010            72.39  21.15            0.32             0.03
+UEFA               115      1476            75.11  17.52            0.28             0.04
+
+2. EXPECTED COMPLETION MODEL
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+Intercept     91.8936      1.276     72.031      0.000      89.384      94.403
+prop_over    -50.7244      3.341    -15.181      0.000     -57.297     -44.151
+prop_cross   -63.8286     11.607     -5.499      0.000     -86.663     -40.995
+==============================================================================
+  R-squared: 0.463   n = 331
+
+3. TEAM-LEVEL PASS COMPLETION OVER EXPECTED (PCOE)
+       Team Confederation  Attempts  Actual  Expected   PCOE
+    England          UEFA       125   82.45     76.87   5.59
+      Spain          UEFA       163   78.00     75.22   2.78
+   Scotland          UEFA       298   76.69     73.98   2.72
+   Portugal          UEFA       265   80.83     79.30   1.53
+   Colombia      CONMEBOL       240   72.45     72.11   0.34
+    Austria          UEFA       111   75.09     74.86   0.23
+  Argentina      CONMEBOL       226   78.52     79.50  -0.98
+    Uruguay      CONMEBOL       124   66.10     67.13  -1.03
+    Germany          UEFA       139   76.85     78.58  -1.73
+     Brazil      CONMEBOL       223   75.95     77.85  -1.89
+Netherlands          UEFA       139   73.00     75.44  -2.44
+     Sweden          UEFA        94   59.25     64.37  -5.12
+    Ecuador      CONMEBOL       197   63.50     69.38  -5.88
+    Türkiye          UEFA       142   62.40     73.01 -10.61
+
+4. COMPARING THE TWO CONFEDERATIONS
+  UEFA      n = 9  mean = -0.78  SD = 4.89
+  CONMEBOL  n = 5  mean = -1.89  SD = 2.37
+
+  Welch's t-test:  t = 0.569,  p = 0.5802
+  Difference in means (UEFA - CONMEBOL): +1.10 percentage points
+  Fail to reject the null: no evidence of a difference in adjusted line-break completion.
+
+Saved UEFA_vs_CONMEBOL_PCOE.png
