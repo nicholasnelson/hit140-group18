@@ -1,0 +1,50 @@
+team_id,team_name,elo,fifa_rank,squad_value_meur
+ALG,Algeria,1772.0,,252.95
+ARG,Argentina,2115.0,,1040.0
+AUS,Australia,1777.0,,75.5
+AUT,Austria,1830.0,,266.8
+BEL,Belgium,1893.0,,620.8
+BIH,Bosnia and Herzegovina,,,
+BRA,Brazil,1991.0,,904.5
+CAN,Canada,1788.0,,141.48
+CIV,Côte d'Ivoire,,,
+COD,Congo DR,,,
+COL,Colombia,1982.0,,257.65
+CPV,Cabo Verde,,,
+CRO,Croatia,1911.0,,460.0
+CUW,Curaçao,1434.0,,22.23
+CZE,Czechia,1740.0,,192.9
+ECU,Ecuador,1938.0,,190.05
+EGY,Egypt,1696.0,,102.15
+ENG,England,2024.0,,1560.0
+ESP,Spain,2157.0,,1310.0
+FRA,France,2063.0,,1510.0
+GER,Germany,1932.0,,1360.0
+GHA,Ghana,1511.0,,146.35
+GHA,Uzbekistan,1714.0,,83.2
+HAI,Haiti,1548.0,,52.25
+IRN,IR Iran,,,
+IRQ,Iraq,1607.0,,16.6
+JOR,Jordan,1680.0,,21.53
+JPN,Japan,1906.0,,294.85
+KOR,Korea Republic,,,
+KSA,Saudi Arabia,1576.0,,21.43
+MAR,Morocco,1827.0,,603.35
+MEX,Mexico,1875.0,,237.8
+NED,Netherlands,1948.0,,686.0
+NOR,Norway,1914.0,,647.1
+NZL,New Zealand,1562.0,,29.18
+PAN,Panama,1730.0,,30.33
+PAR,Paraguay,1833.0,,164.4
+POR,Portugal,1989.0,,946.0
+QAT,Qatar,1421.0,,19.9
+RSA,South Africa,1518.0,,48.65
+SCO,Scotland,1782.0,,173.6
+SEN,Senegal,1860.0,,567.6
+SUI,Switzerland,1891.0,,305.9
+SWE,Sweden,1712.0,,447.3
+TUN,Tunisia,1628.0,,50.68
+TUR,Türkiye,,,
+URU,Uruguay,1892.0,,294.9
+USA,USA,,,
+UZB,Uzbekistan,1714.0,,83.2
